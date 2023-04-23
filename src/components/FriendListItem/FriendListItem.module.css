@@ -1,0 +1,30 @@
+.true, .false {
+  margin-left: 15px;
+  display: block;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+}
+
+.true {
+  background-color: rgb(38, 205, 38);
+}
+  
+.false {
+  background-color: rgb(220, 46, 15);
+}
+
+.avatar {
+  padding: 0;
+  margin: 0;
+  display: block;
+  border-radius: 5px;
+  background-color: rgb(237, 204, 237);
+  margin-left: 20px;
+}
+
+.name {
+  margin: 0 0 0 30px;
+  font-size: 28px;
+  font-weight: 500;
+}
